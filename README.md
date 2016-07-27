@@ -8,7 +8,7 @@ R script with functions for calibrating classifiers
 Code of the paper
 
 Antonio Bella, Cèsar Ferri, José Hernández-Orallo, María José Ramírez-Quintana
-On the effect of calibration in classifier combination
+"On the effect of calibration in classifier combination"
 Applied Intelligence
 June 2013, Volume 38, Issue 4, pp 566–585
 
