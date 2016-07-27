@@ -1,4 +1,5 @@
 # RCalibration
 
 R script with functions for calibrating classifiers
-[Use Example!](docs/RCalibration_Jupyter.ipynb)
+
+[Use Example](RCalibration_Jupyter.ipynb)
