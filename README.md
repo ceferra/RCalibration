@@ -3,7 +3,8 @@
 R script with functions for calibrating classifiers
 
 [Use Example](RCalibration_Jupyter.ipynb)
-[Example of the Calibration Plot from caret](Cal_Plot_Example.ipynb)
+
+[Example of the Calibration Plot from caret](https://github.com/ceferra/caret_calplot/blob/master/README.md)
 
 Code of the paper
 
